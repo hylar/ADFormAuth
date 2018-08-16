@@ -1,2 +1,2 @@
 # ADFormAuth
-Forms based authentication with Active Directory
+Example of forms based authentication with Active Directory
